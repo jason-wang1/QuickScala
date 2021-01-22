@@ -13,4 +13,4 @@
 |   [charpter08](https://github.com/jason-wang1/QuickScala/src/main/scala/charpter08.scala)   |   继承   |
 
 
-![alt text](https://github.com/jason-wang1/QuickScala/doc/cover.png)
+![alt text](https://https://github.com/jason-wang1/QuickScala/blob/master/docs/cover.png)
