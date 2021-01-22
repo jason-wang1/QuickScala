@@ -4,11 +4,7 @@ import scala.collection.JavaConverters._
 import scala.collection.mutable
 
 /**
-  * Descreption: XXXX<br/>
-  * Date: 2020年04月19日
-  *
-  * @author WangBo
-  * @version 1.0
+  * 映射和元组
   */
 object charpter04 {
   /*

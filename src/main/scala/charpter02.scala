@@ -1,9 +1,5 @@
 /**
-  * Descreption: XXXX<br/>
-  * Date: 2020年04月19日
-  *
-  * @author WangBo
-  * @version 1.0
+  * 控制结构和函数
   */
 object charpter02 {
   /*

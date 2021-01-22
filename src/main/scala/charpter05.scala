@@ -2,11 +2,7 @@ import scala.beans.BeanProperty
 import scala.collection.mutable.ArrayBuffer
 
 /**
-  * Descreption: XXXX<br/>
-  * Date: 2020年04月19日
-  *
-  * @author WangBo
-  * @version 1.0
+  * 类
   */
 object charpter05 {
   /*

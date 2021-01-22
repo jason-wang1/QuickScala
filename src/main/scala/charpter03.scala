@@ -4,11 +4,7 @@ import scala.collection.mutable.ArrayBuffer
 import scala.util.Random
 
 /**
-  * Descreption: XXXX<br/>
-  * Date: 2020年04月19日
-  *
-  * @author WangBo
-  * @version 1.0
+  * 数组相关操作
   */
 object charpter03 {
   /*
